@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-price-scrape",
+  "version": "1.0.0",
+  "description": "a scraping script for grabbing the current dollar value of ethereum",
+  "main": "index.js",
+  "scripts": {},
+  "author": "david ranich",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.2.1"
+  }
+}
